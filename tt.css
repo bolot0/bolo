@@ -1,0 +1,40 @@
+body {
+    background-color: #a6c0d5;
+    padding: 20px;
+}
+.header {
+    width: 100%;
+    margin: 20px 0;
+    text-align: center;
+}
+.links>span {
+    font-weight: bold;
+    cursor: auto;
+}
+#hexPage {
+        text-decoration: underline;
+}
+#rgbWrapper {
+    display: none;
+}
+
+.mainWrapper {
+    width: 1px;
+}
+.mainWrapper{
+    width: 300px;
+    margin: 40px auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+margin: 20px;
+padding: 10px 20px;
+font-weight: 600;
+font-size: 110%;
+border: 1px solid grey;
+color: rgb(68, 65, 65);
+border-radius: 3px;
+}
